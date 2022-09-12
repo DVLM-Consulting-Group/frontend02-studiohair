@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(0deg, rgba(255,44,138,1) 13%, rgba(251,33,197,1) 60%, rgba(244,37,163,1) 91%);
+}
+
+h2 {
+color: white;
+}

@@ -1,0 +1,32 @@
+.container {
+    font-family: 'Poppins', sans-serif;
+    height: 100%;
+}
+
+.sidenav{
+    width: 13rem;
+    color: rgb(32, 28, 28);
+    background: linear-gradient(0deg, rgba(255,44,138,1) 13%, rgba(251,33,197,1) 60%, rgba(244,37,163,1) 91%);
+   
+}
+
+img {
+    width: 180px;
+    height: 100px;
+    margin: auto auto auto 10px;
+}
+
+.sidenav a {
+    color: rgb(255, 255, 255);
+}
+
+.sidenav i {
+    margin-right: .6rem;
+}
+
+.menu {
+    margin: 1rem 0 0 1rem;
+    color: white;
+    background: linear-gradient(0deg, rgba(255,44,138,1) 13%, rgba(251,33,197,1) 60%, rgba(244,37,163,1) 91%);
+
+}

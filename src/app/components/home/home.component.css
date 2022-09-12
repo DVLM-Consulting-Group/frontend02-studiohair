@@ -1,0 +1,11 @@
+.card {
+    width: 65%;
+    margin: auto;
+    background-color: rgb(171, 169, 169);
+    color: black;
+    
+}
+
+img {
+    height: 20rem;
+}

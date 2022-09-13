@@ -6,7 +6,7 @@
 .sidenav{
     width: 13rem;
     color: rgb(32, 28, 28);
-    background: linear-gradient(0deg, rgba(255,44,138,1) 13%, rgba(251,33,197,1) 60%, rgba(244,37,163,1) 91%);
+    background: linear-gradient(0deg, rgba(255,44,138,1) 13%, #fb21c5 60%, #f425a3 91%);
    
 }
 
